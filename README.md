@@ -1,2 +1,40 @@
 # Data_Science
 《数据科学基础》大作业相关数据和python代码
+## python代码
+download_video.py 下载视频
+librosa_data_process.py 处理librosa相关数据
+librosa_mean_csv.py 处理各个用户librosa的mfcc平均值写入csv
+librosa_mfcc_mean.py 处理各个用户librosa的mfcc平均值生成图片
+librosa_pic_no_voice.py 生成无人声的波形图
+librosa_pic_with_voice.py 生成有人声的波形图
+line_chart.py 分别生成点赞数和粉丝数的折线图
+line_chart_like_and_follower.py 生成点赞数和粉丝数综合的折线图
+word_frequency_csv.py 生成词频csv
+write_comment_csv.py 把json中的评论写入csv
+write_info_comment.py 把json中的个人信息写入csv
+
+## 各文件夹和压缩包
+comment_csv 评论的csv文件
+comment_csv_frequency 评论内容词频的csv文件
+comment_data 评论的json文件
+csv 个人信息的csv文件
+data 个人信息的json文件
+feature_csv 音频特征的csv文件
+followers_pic 粉丝数 折线图
+librosa_amplitude_to_db_without_voice_pic 频率和响度图片
+librosa_mfcc_average_pic 平均mfcc图片
+librosa_mfcc_pic mfcc 图片
+librosa_spectral_centroids_without_voice_pic 谱质心图片
+librosa_spectral_rolloff_without_voice_pic 谱滚降图片
+librosa_waveplot_without_voice_pic 无人声频谱图
+librosa_waveplot_with_voice_pic 有人声频谱图
+librosa_zero_crossings_without_voice_pic 过零率图片
+likes_and_followers_pic 点赞数和粉丝数折线图
+likes_pic 点赞数折线图
+mp4 视频文件
+other 其他数据
+wav 有人声的wav音频
+wav_without_voice 无人声的wav音频
+大作业组内交流文档
+
+
